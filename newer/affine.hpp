@@ -7,13 +7,8 @@
 
 /*
 Author: Sohail Siadatnejad
-
-10 Jul 2015, 13:06
-
-Compile using:
-    g++ -std=c++11 affine.cpp
-To run the tests:
-    ./a.out
+* 10 Jul 2015, 13:06
+* 18 June 2022, improvements
 */
 
 // template <typename R> //todog++ -std=c++11 affine.cpp

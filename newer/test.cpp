@@ -1,4 +1,14 @@
+/*
+Author: Sohail Siadatnejad
 
+* 10 Jul 2015, 13:06
+* 18 June 2022, improvements
+
+Compile using:
+    g++ -std=c++11 affine.cpp
+To run the tests:
+    ./a.out
+*/
 #include "./affine2d.hpp"
 
 using namespace affine;

@@ -1,3 +1,10 @@
+/*
+Author: Sohail Siadatnejad
+* 10 Jul 2015, 13:06
+* 18 June 2022, improvements
+
+*/
+
 #include "./affine.hpp"
 
 namespace affine
