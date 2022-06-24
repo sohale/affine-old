@@ -97,7 +97,7 @@ int main()
 {
 
     std::cout << "Testing Vec2D" << std::endl;
-    affine::test_Vec2D();
+    // affine::test_Vec2D();
     std::cout << "Testing Affine2D" << std::endl;
     // bool r = test_Affine2D());
     bool r = true;
